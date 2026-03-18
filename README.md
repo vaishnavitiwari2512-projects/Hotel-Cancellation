@@ -9,8 +9,6 @@ High booking cancellations
 
 Unpredictable customer behavior
 
-Revenue loss and poor occupancy planning
-
 This project aims to analyze these issues and provide actionable insights.
 
 # Tools & Technologies Used
@@ -30,8 +28,6 @@ Pivot Charts & Dashboard
 Cleaned raw dataset using Power Query
 
 Handled null/missing values
-
-Converted data types (text → numeric)
 
 Created calculated columns:
 
